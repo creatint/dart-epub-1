@@ -8,7 +8,7 @@ environment:
 dependencies:
   async: "^2.0.8"
   archive: "^2.0.8"
-  xml: "^3.4.1"
+  xml: "^3.4.0"
   image: "^2.0.7"
 dev_dependencies:
   path: "^1.6.2"
